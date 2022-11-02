@@ -1,0 +1,24 @@
+.cards{
+    width: 35rem;
+    height: auto;
+    border-radius: 5px;
+    background-color: beige;
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.left img{
+    width: 15rem;
+    background-size: cover;
+}
+
+.left{
+    max-width: 15rem;
+    max-height: 15rem;
+
+}
+.right{
+    padding-left: 1rem;
+}

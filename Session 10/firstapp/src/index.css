@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Michroma&family=Orbitron&family=Poppins&display=swap');
+/* 
+font-family: 'Michroma', sans-serif;
+font-family: 'Orbitron', sans-serif;
+font-family: 'Poppins', sans-serif; */
+
+*{
+  font-family: 'Poppins', sans-serif;
+}
+
+.container{
+  width: 80%;
+  margin: auto;
+}
+
+.michroma{
+  font-family: 'Michroma', sans-serif;
+}
+.orbitron{
+  font-family: 'Orbitron', sans-serif;
+}
+.btn{
+  background-color: aqua;
+  color: black;
+  padding: 1rem;
+  border-radius: 15px;
+  border: none;
+}
